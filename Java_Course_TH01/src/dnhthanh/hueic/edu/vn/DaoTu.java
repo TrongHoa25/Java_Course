@@ -20,7 +20,7 @@ public class DaoTu {
 		return ns;
 	}
 
-	private static char[] getchar(char[] arrs, int i, int t) {
+	public static char[] getchar(char[] arrs, int i, int t) {
 		char[] temp = new char[t - i + 1];
 		for (int i1 = i; i1 <= t; i1++)
 		{

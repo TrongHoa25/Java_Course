@@ -10,12 +10,16 @@ public class MainClass {
 		//Nhập xâu để đảo xâu và đảo từ
 		System.out.println("Nhập vào xâu kí tự: ");
 		String s = "";
+		String scon = "";
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		s = br.readLine();
+		scon = br.readLine();
 		//Gọi hàm đảo xâu
-		System.out.println(DaoXau.thuchien(s));
+		/*System.out.println(DaoXau.thuchien(s));
 		//Gọi hàm đảo từ
-		System.out.println(DaoTu.thuchien(s));
+		System.out.println(DaoTu.thuchien(s));*/
+		ViTri.xacdinhvt(s,scon);
+
 		
 //		//Nhập vào mảng theo định dạng các phần tử cách nhau bằng kt trắng 1 2 3
 //		String input = br.readLine();
