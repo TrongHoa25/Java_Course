@@ -10,24 +10,24 @@ public class HangHoa {
 		return ngaySanXuat;
 	}
 
-	public void setNgaySanXuat(String ngaySanXuat) {
-		ngaySanXuat = ngaySanXuat;
+	public void setNgaySanXuat(String nsx) {
+		ngaySanXuat = nsx;
 	}
 
 	public double getDonGia() {
 		return donGia;
 	}
 
-	public void setDonGia(double donGia) {
-		donGia = donGia;
+	public void setDonGia(double dg) {
+		donGia = dg;
 	}
 
 	public int getSoLuong() {
 		return soLuong;
 	}
 
-	public void setSoLuong(int soLuong) {
-		soLuong = soLuong;
+	public void setSoLuong(int sl) {
+		soLuong = sl;
 	}
 	//Tiếp tục cho các thuộc tính còn lại
 
@@ -46,8 +46,8 @@ public class HangHoa {
 				'}';
 	}
 
-	public void setTenHang(String tenHang) {
-		tenHang = tenHang;
+	public void setTenHang(String th) {
+		tenHang = th;
 	}
 	//Tiếp tục cho các phương thức còn lại
 	public double tinhTien(){

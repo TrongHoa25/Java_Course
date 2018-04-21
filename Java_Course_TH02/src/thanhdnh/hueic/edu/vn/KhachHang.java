@@ -10,17 +10,18 @@ public class KhachHang {
 		return password;
 	}
 
-	public void setPassword(String password) {
-		password = password;
+	public void setPassword(String pw) {
+		password = pw;
 	}
 	//Tiếp tục cho các thuộc tính khác
 
 	public String getUsername() {
+
 		return username;
 	}
 
-	public void setUsername(String username) {
-		username = username;
+	public void setUsername(String un) {
+		username = un;
 	}
 	public HangHoa MuaHang(String th, String nsx, double dg, int sl ){
 		HangHoa hh = new HangHoa();
