@@ -11,7 +11,7 @@ public class KhachHang {
 	}
 
 	public void setPassword(String password) {
-		this.password = password;
+		password = password;
 	}
 	//Tiếp tục cho các thuộc tính khác
 
@@ -20,7 +20,7 @@ public class KhachHang {
 	}
 
 	public void setUsername(String username) {
-		this.username = username;
+		username = username;
 	}
 	public HangHoa MuaHang(String th, String nsx, double dg, int sl ){
 		HangHoa hh = new HangHoa();
@@ -33,13 +33,13 @@ public class KhachHang {
 	}
 
 	public KhachHang() {
-		this.username = "tronghoa";
-		this.password = "123456";
+		username = "tronghoa";
+		password = "123456";
 	}
 
 	public KhachHang(String username, String password) {
-		this.username = username;
-		this.password = password;
+		username = username;
+		password = password;
 	}
 
 	@Override

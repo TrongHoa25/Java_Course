@@ -11,7 +11,7 @@ public class HangHoa {
 	}
 
 	public void setNgaySanXuat(String ngaySanXuat) {
-		this.ngaySanXuat = ngaySanXuat;
+		ngaySanXuat = ngaySanXuat;
 	}
 
 	public double getDonGia() {
@@ -19,7 +19,7 @@ public class HangHoa {
 	}
 
 	public void setDonGia(double donGia) {
-		this.donGia = donGia;
+		donGia = donGia;
 	}
 
 	public int getSoLuong() {
@@ -27,7 +27,7 @@ public class HangHoa {
 	}
 
 	public void setSoLuong(int soLuong) {
-		this.soLuong = soLuong;
+		soLuong = soLuong;
 	}
 	//Tiếp tục cho các thuộc tính còn lại
 
@@ -47,12 +47,12 @@ public class HangHoa {
 	}
 
 	public void setTenHang(String tenHang) {
-		this.tenHang = tenHang;
+		tenHang = tenHang;
 	}
 	//Tiếp tục cho các phương thức còn lại
 	public double tinhTien(){
 		double tien;
-		tien = this.donGia * this.soLuong;
+		tien = donGia * soLuong;
 		return tien;
 	}
 }
