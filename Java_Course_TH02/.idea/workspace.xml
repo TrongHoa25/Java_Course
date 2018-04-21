@@ -42,8 +42,8 @@
       <file leaf-file-name="KhachHang.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/thanhdnh/hueic/edu/vn/KhachHang.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="54" column="0" lean-forward="true" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+            <state relative-caret-position="250">
+              <caret line="32" column="18" lean-forward="true" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
               <folding>
                 <element signature="e#166#167#0" expanded="true" />
                 <element signature="e#188#189#0" expanded="true" />
@@ -59,8 +59,8 @@
       <file leaf-file-name="MainProgram.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/thanhdnh/hueic/edu/vn/MainProgram.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="29" column="44" lean-forward="false" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
+            <state relative-caret-position="236">
+              <caret line="38" column="45" lean-forward="false" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -76,9 +76,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/thanhdnh/hueic/edu/vn/MainProgram.java" />
-        <option value="$PROJECT_DIR$/src/thanhdnh/hueic/edu/vn/KhachHang.java" />
         <option value="$PROJECT_DIR$/src/thanhdnh/hueic/edu/vn/HangHoa.java" />
+        <option value="$PROJECT_DIR$/src/thanhdnh/hueic/edu/vn/KhachHang.java" />
+        <option value="$PROJECT_DIR$/src/thanhdnh/hueic/edu/vn/MainProgram.java" />
       </list>
     </option>
   </component>
@@ -481,21 +481,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/thanhdnh/hueic/edu/vn/KhachHang.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="54" column="0" lean-forward="true" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
-          <folding>
-            <element signature="e#166#167#0" expanded="true" />
-            <element signature="e#188#189#0" expanded="true" />
-            <element signature="e#227#228#0" expanded="true" />
-            <element signature="e#247#248#0" expanded="true" />
-            <element signature="e#377#378#0" expanded="true" />
-            <element signature="e#397#398#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/thanhdnh/hueic/edu/vn/HangHoa.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
@@ -521,10 +506,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/thanhdnh/hueic/edu/vn/KhachHang.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="32" column="18" lean-forward="true" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+          <folding>
+            <element signature="e#166#167#0" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#377#378#0" expanded="true" />
+            <element signature="e#397#398#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/thanhdnh/hueic/edu/vn/MainProgram.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="29" column="44" lean-forward="false" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
+        <state relative-caret-position="236">
+          <caret line="38" column="45" lean-forward="false" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
           <folding />
         </state>
       </provider>
